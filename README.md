@@ -12,7 +12,10 @@ This repo will contain my progress through LeetCode and serve as a reminder of m
   └──March
         ├──1
         │  └──Two Sum
-        └──6
-           ├──2667 Create Hello World Function
-           └──2620 Counter
+        ├──6
+        │  ├──2667 Create Hello World Function
+        │  └──2620 Counter
+        ├──7
+        │  └──2704 To Be or Not To Be
+        ├──
 ```
